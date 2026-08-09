@@ -36,4 +36,4 @@
 
 **Стек** — Python, pandas, numpy, matplotlib, scikit-learn, CatBoost.
 
-**Как запустить:** Открыть Task_1.ipynb, положить в ту же папку Daily Household Transactions.csv, нажать Run All Cells.
+**Как запустить:** открыть Task_1.ipynb, положить в ту же папку Daily Household Transactions.csv, нажать Run All Cells.
